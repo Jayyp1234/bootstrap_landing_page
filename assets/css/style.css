@@ -160,7 +160,7 @@ color: #222222;
   }
 }
 .card{
-  background-color: #efefef !important;
+  background-color: white !important;
   margin-bottom: 20px;
 }
 .card-text{
@@ -168,6 +168,6 @@ color: #222222;
     color: black;
     font-size: 16px;
 }
-.jj .col-md-6{
+.jj .col-sm-6{
   margin-bottom: 20px;
 }
